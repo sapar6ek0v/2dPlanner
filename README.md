@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Demo
+
+Open in your browser to see [url](https://two-d-planner.vercel.app/)
+
 ## Available Scripts
 
 In the project directory, you can run:
